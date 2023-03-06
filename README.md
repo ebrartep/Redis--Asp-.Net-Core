@@ -1,1 +1,3 @@
-# Asp .Net Core 5.0 ile Redis ile alakalı örnek 
+# Asp .Net Core 5.0 - Redis
+Arada ki bağlantılar sağlandı.
+Key-Value üzerine ufak bir test gerçekleştirildi.
